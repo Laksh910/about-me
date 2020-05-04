@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="color:Orange;">Laksh</h1>
+<h4 style="color:blue;">
+ My name is Laksh ,I am 9 years old and I am going to turn 10 on May 12.I live in <a href="https://www.austintexas.org/">Austin,Texas</a> in Riata. My favorite sport to play is soccer and cricket. I am currently studying in Kathy Caraway, but next year I am going to Cedar park Harmony School of Science.
+ Here are a few things I am doing during lockdown:
+ 
+ <h2 style="color: red;">10 things I am doing during quarantine</h2>
+
+<ul>
+  <h4 style="color:green;"><li>watch tv</li>
+  <li>play legos</li>
+  <li>draw</li>
+  <li>play soccer in the patio</li>
+  <li>explore new stuff on my Chromebook</li>
+  <li>play board games</li>
+  <li>study alot :-)</li>
+  <li>code</li>
+  <li>running and biking</li>
+  <li>yoga</li></h1>
+
+
+  
+  
+  <h2 style="color: Dodgerblue;">5 of my favorite foods</h2>
+<ul>
+  <h4 style="color:red;">
+  <li>Pizza</li>
+  <li>Fish</li>
+  <li>Nachos</li>
+  <li>Noodles</li>
+  <li>Garlic naan</li
+  
+</ul>  
+
+</body>
+</html>
